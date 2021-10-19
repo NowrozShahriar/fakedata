@@ -9,36 +9,36 @@
     {
         "id": "cardiology",
         "name": "Cardiology",
-        "shortDesc": "From family dentistry to specialty care like braces and dental implants, we offer a complete line of dental services to care for your overall oral health.",
-        "longDesc": "eHealthCare offer every dental specialty your family may need, including general and pediatric care, braces and orthodontics, oral surgery, dental implants, and more. At Dental Associates, you’ll always receive the highest level of care every step of the way. Your dental team starts with your general dentist, a hygienist, and support staff. These are the same friendly faces you'll see with each visit you make to Dental Associates. Should you need more complex dental services, our in-house specialists will provide your care—without a referral across town.",
+        "shortDesc": "Our Cardiology Services team provides heart screening and diagnosis as well ... We offer a variety of resources for people with cardiovascular disease and ...",
+        "longDesc": "Our Cardiology Services team provides heart screening and diagnosis as well as treatment and support. We offer a variety of resources for people with cardiovascular disease and those looking to keep their heart healthy.",
         "img": "https://i.ibb.co/n1wZT0p/Heart-banner-for-cardiac-technology.jpg"
     },
     {
         "id": "for-disabled",
         "name": "For Disabled",
-        "shortDesc": "From family dentistry to specialty care like braces and dental implants, we offer a complete line of dental services to care for your overall oral health.",
-        "longDesc": "eHealthCare offer every dental specialty your family may need, including general and pediatric care, braces and orthodontics, oral surgery, dental implants, and more. At Dental Associates, you’ll always receive the highest level of care every step of the way. Your dental team starts with your general dentist, a hygienist, and support staff. These are the same friendly faces you'll see with each visit you make to Dental Associates. Should you need more complex dental services, our in-house specialists will provide your care—without a referral across town.",
+        "shortDesc": "Disability Services is now part of the new Department of Communities. All services are continuing to be provided and all our contact numbers remain the same ...",
+        "longDesc": "The Disability Services website presence is moving to the whole-of-government WA.gov.au platform. The move brings together content from legacy websites of the Department Communities’ former agencies. In addition to Disability Services, these include Child Protection and Family Support, Housing and relevant content from the Department of Local Government and Communities. Initial work to migrate the Disability Services website to WA.gov.au has started, which we expect to complete later in 2021. Content from our other sites will be migrated in a phased approach over the next 12 months.",
         "img": "https://i.ibb.co/58RDDJx/low-section-woman-pushing-man-sitting-wheelchair.jpg"
     },
     {
         "id": "orthopedic-services",
         "name": "Orthopedic Services",
-        "shortDesc": "From family dentistry to specialty care like braces and dental implants, we offer a complete line of dental services to care for your overall oral health.",
-        "longDesc": "eHealthCare offer every dental specialty your family may need, including general and pediatric care, braces and orthodontics, oral surgery, dental implants, and more. At Dental Associates, you’ll always receive the highest level of care every step of the way. Your dental team starts with your general dentist, a hygienist, and support staff. These are the same friendly faces you'll see with each visit you make to Dental Associates. Should you need more complex dental services, our in-house specialists will provide your care—without a referral across town.",
+        "shortDesc": "Orthopedics, or orthopedic services, aim at the treatment of the musculoskeletal system. This includes your bones, joints, ligaments, tendons, and muscles.",
+        "longDesc": "Chronically painful joints and muscle injuries can stop you from participating in the activities you love. In the Sutter Health network, orthopedic surgeons and sports medicine experts work with you to heal damage, reduce pain and prevent future problems so you can get back in the game. We’re also home to nationally-acclaimed sports medicine doctors, who work with athletes of all levels to treat injuries and boost performance. Experts in the Sutter Health network have served as team doctors and consultants for professional teams including the Oakland Raiders, San Jose Earthquakes, Golden State Warriors, San Francisco Giants, San Francisco Ballet and the USA Olympic Track and Field team.",
         "img": "https://i.ibb.co/2jZd9rf/Male-doctor-is-looking-at-the-blue-sky-Concept-for-good-future-of-medical-service.jpg"
     },
     {
         "id": "emergency",
         "name": "Emergency",
-        "shortDesc": "From family dentistry to specialty care like braces and dental implants, we offer a complete line of dental services to care for your overall oral health.",
-        "longDesc": "eHealthCare offer every dental specialty your family may need, including general and pediatric care, braces and orthodontics, oral surgery, dental implants, and more. At Dental Associates, you’ll always receive the highest level of care every step of the way. Your dental team starts with your general dentist, a hygienist, and support staff. These are the same friendly faces you'll see with each visit you make to Dental Associates. Should you need more complex dental services, our in-house specialists will provide your care—without a referral across town.",
+        "shortDesc": "A medical emergency is a sudden injury or serious illness that, if not treated right away, could cause death or serious harm to you. If you are pregnant it, may mean harm to you or your unborn child.",
+        "longDesc": "A medical emergency is an acute injury or illness that poses an immediate risk to a person's life or long-term health, sometimes referred to as a situation risking life or limb. These emergencies may require assistance from another, qualified person, as some of these emergencies, such as cardiovascular (heart), respiratory, and gastrointestinal cannot be dealt with by the victim themselves.[1] Dependent on the severity of the emergency, and the quality of any treatment given, it may require the involvement of multiple levels of care, from first aiders through emergency medical technicians, paramedics, emergency physicians and anesthesiologists.",
         "img": "https://images.everydayhealth.com/images/neurology/multiple-sclerosis/when-to-seek-and-avoid-emergency-care-for-ms-rm-1440x810.jpg"
     },
     {
         "id": "x-ray",
         "name": "X-ray",
-        "shortDesc": "From family dentistry to specialty care like braces and dental implants, we offer a complete line of dental services to care for your overall oral health.",
-        "longDesc": "eHealthCare offer every dental specialty your family may need, including general and pediatric care, braces and orthodontics, oral surgery, dental implants, and more. At Dental Associates, you’ll always receive the highest level of care every step of the way. Your dental team starts with your general dentist, a hygienist, and support staff. These are the same friendly faces you'll see with each visit you make to Dental Associates. Should you need more complex dental services, our in-house specialists will provide your care—without a referral across town.",
+        "shortDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites.",
+        "longDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites, including InHealth’s specialist diagnostic centres. We continue to invest in in our X-ray facilities, so we can offer patients rapid access to state-of-the art equipment and high-quality services. In Health is committed to delivering a high quality and reliable X-ray service. We are ISO and CQC registered and therefore subject to rigorous audit and testing of our processes at all stages of the patient pathway, from referral to report.",
         "img": "https://www.touchstoneimaging.com/wp-content/uploads/2019/06/Chest-x-RAY.jpg"
     }
 ]
