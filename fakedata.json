@@ -7,6 +7,20 @@
         "img": "https://pmrpressrelease.com/wp-content/uploads/2019/12/Dental-Services0.jpg"
     },
     {
+        "id": "emergency",
+        "name": "Emergency",
+        "shortDesc": "A medical emergency is a sudden injury or serious illness that, if not treated right away, could cause death or serious harm to you. If you are pregnant it, may mean harm to you or your unborn child.",
+        "longDesc": "A medical emergency is an acute injury or illness that poses an immediate risk to a person's life or long-term health, sometimes referred to as a situation risking life or limb. These emergencies may require assistance from another, qualified person, as some of these emergencies, such as cardiovascular (heart), respiratory, and gastrointestinal cannot be dealt with by the victim themselves.[1] Dependent on the severity of the emergency, and the quality of any treatment given, it may require the involvement of multiple levels of care, from first aiders through emergency medical technicians, paramedics, emergency physicians and anesthesiologists.",
+        "img": "https://images.everydayhealth.com/images/neurology/multiple-sclerosis/when-to-seek-and-avoid-emergency-care-for-ms-rm-1440x810.jpg"
+    },
+    {
+        "id": "x-ray",
+        "name": "X-ray",
+        "shortDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites.",
+        "longDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites, including InHealth’s specialist diagnostic centres. We continue to invest in in our X-ray facilities, so we can offer patients rapid access to state-of-the art equipment and high-quality services. In Health is committed to delivering a high quality and reliable X-ray service. We are ISO and CQC registered and therefore subject to rigorous audit and testing of our processes at all stages of the patient pathway, from referral to report.",
+        "img": "https://www.touchstoneimaging.com/wp-content/uploads/2019/06/Chest-x-RAY.jpg"
+    },
+    {
         "id": "cardiology",
         "name": "Cardiology",
         "shortDesc": "Our Cardiology Services team provides heart screening and diagnosis as well ... We offer a variety of resources for people with cardiovascular disease and ...",
@@ -26,19 +40,5 @@
         "shortDesc": "Orthopedics, or orthopedic services, aim at the treatment of the musculoskeletal system. This includes your bones, joints, ligaments, tendons, and muscles.",
         "longDesc": "Chronically painful joints and muscle injuries can stop you from participating in the activities you love. In the Sutter Health network, orthopedic surgeons and sports medicine experts work with you to heal damage, reduce pain and prevent future problems so you can get back in the game. We’re also home to nationally-acclaimed sports medicine doctors, who work with athletes of all levels to treat injuries and boost performance. Experts in the Sutter Health network have served as team doctors and consultants for professional teams including the Oakland Raiders, San Jose Earthquakes, Golden State Warriors, San Francisco Giants, San Francisco Ballet and the USA Olympic Track and Field team.",
         "img": "https://i.ibb.co/2jZd9rf/Male-doctor-is-looking-at-the-blue-sky-Concept-for-good-future-of-medical-service.jpg"
-    },
-    {
-        "id": "emergency",
-        "name": "Emergency",
-        "shortDesc": "A medical emergency is a sudden injury or serious illness that, if not treated right away, could cause death or serious harm to you. If you are pregnant it, may mean harm to you or your unborn child.",
-        "longDesc": "A medical emergency is an acute injury or illness that poses an immediate risk to a person's life or long-term health, sometimes referred to as a situation risking life or limb. These emergencies may require assistance from another, qualified person, as some of these emergencies, such as cardiovascular (heart), respiratory, and gastrointestinal cannot be dealt with by the victim themselves.[1] Dependent on the severity of the emergency, and the quality of any treatment given, it may require the involvement of multiple levels of care, from first aiders through emergency medical technicians, paramedics, emergency physicians and anesthesiologists.",
-        "img": "https://images.everydayhealth.com/images/neurology/multiple-sclerosis/when-to-seek-and-avoid-emergency-care-for-ms-rm-1440x810.jpg"
-    },
-    {
-        "id": "x-ray",
-        "name": "X-ray",
-        "shortDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites.",
-        "longDesc": "InHealth is an established provider of fully managed X-ray services to both NHS and independent sectors, delivering services from either mobile, relocatable or fixed sites, including InHealth’s specialist diagnostic centres. We continue to invest in in our X-ray facilities, so we can offer patients rapid access to state-of-the art equipment and high-quality services. In Health is committed to delivering a high quality and reliable X-ray service. We are ISO and CQC registered and therefore subject to rigorous audit and testing of our processes at all stages of the patient pathway, from referral to report.",
-        "img": "https://www.touchstoneimaging.com/wp-content/uploads/2019/06/Chest-x-RAY.jpg"
     }
 ]
